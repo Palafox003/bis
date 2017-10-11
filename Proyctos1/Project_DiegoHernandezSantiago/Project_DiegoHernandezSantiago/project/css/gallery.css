@@ -1,0 +1,23 @@
+.img-gallery{
+	cursor: pointer;
+}
+#gallery{
+	background: rgba(0,0,0,0.7);
+	height: 600px;
+	width: 100%;
+	top: 0px;
+	position: absolute;
+	display: none;
+}
+.img-big2{
+	padding-top: 100px;
+}
+#title{
+	color: white;
+	padding-top: 100px;
+}
+#desc{
+	color: white;
+	text-align: justify;
+	font-size: 1.2em;
+}
