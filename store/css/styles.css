@@ -1,0 +1,45 @@
+.navbar{
+	background:#535151 !important;
+	padding: 15px;
+}
+.jumbotron{
+	background: url('../img/img1.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 150px 50px;
+	text-align: center;
+}
+#container-jumbotron{
+	background: rgba(255,255,255,0.5);
+	width: 50%;
+	margin: auto;
+	padding: 20px;
+}
+.frame-img{
+	overflow: hidden;
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+}
+.frame-img:hover{
+	box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+	margin-top: -20px;
+	transition: ease-in 0.5s;
+}
+.img-cat{
+	transition: ease-out 0.5s;
+}
+.img-cat:hover{
+	transition: ease-in 1s;
+	transform: scale(1.2);
+	cursor:pointer;
+}
+.title-cat{
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+	font-family: 'Lobster', cursive;
+}
+.text-cont{
+	padding-bottom: 30px;
+}

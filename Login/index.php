@@ -19,6 +19,7 @@ if(!isset($_SESSION["online"])){
 			<input type="submit" name="submit">
 		</fieldset>
 	</form>
+	<a href="login/register.php">Sign in</a>
 <?php 
 }else{
 	echo "Hello ". $_SESSION["online"]. " you're online now. !!!";
