@@ -1,6 +1,7 @@
 .navbar{
 	background:#535151 !important;
 	padding: 15px;
+	color: white;
 }
 .jumbotron{
 	background: url('../img/img1.jpg');
@@ -42,4 +43,13 @@
 }
 .text-cont{
 	padding-bottom: 30px;
+}
+.footer{
+	background:#535151 !important;
+	padding: 15px;
+	color: white;
+	text-decoration: none;
+}
+.footer a{
+	color: white;
 }
