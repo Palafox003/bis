@@ -53,3 +53,11 @@
 .footer a{
 	color: white;
 }
+#shop{
+	background: url('../img/img1.jpg') !important;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#backgraund-shop{
+	background-color: rgba(0,0,255,0.2);
+}
